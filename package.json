@@ -1,0 +1,25 @@
+{
+  "name": "StalloneWisdom",
+  "version": "1.0.0",
+  "description": "Stallone quotes bot",
+  "main": "./index",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Grimeh/StalloneWisdom.git"
+  },
+  "author": "Brandon Grimshaw <br@ndon.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grimeh/KeanuReeves/issues"
+  },
+  "homepage": "https://github.com/Grimeh/KeanuReeves",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.13.0",
+    "request": "^2.57.0"
+  },
+  "dependencies": {
+    "slack-node": "^0.1.3"
+  }
+}
