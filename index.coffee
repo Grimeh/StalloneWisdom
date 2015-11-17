@@ -28,7 +28,33 @@ quotes = [
 						But you gotta be willing to take the hits,
 						And not pointing fingers saying you ain’t where you wanna be because of him, or her, or anybody.
 						COWARDS DO THAT AND THAT AIN'T YOU.
-						YOU'RE BETTER THAN THEM!\" ― Sylvester Stallone, Rocky"]
+						YOU'RE BETTER THAN THEM!\" ― Sylvester Stallone, Rocky",
+		"Like I said, I've got too much respect for women to marry them, but that doesn't mean you can't support them emotionally and financially.",
+		"I have great expectations for the future, because the past was highly overrated.",
+		"I take rejection as someone blowing a bugle in my ear to wake me up and get going, rather than retreat.",
+		"There's a natural law of karma that vindictive people, who go out of their way to hurt others, will end up broke and alone.",
+		"I believe any success in life is made by going into an area with a blind, furious optimism.",
+		"I believe there's an inner power that makes winners or losers. And the winners are the ones who really listen to the truth of their hearts.",
+		"Life is more than sunglasses and hit movies. Reality - that's the main event.",
+		"I used to tweet, but it's an act of futility. You're not really making any impact, and if you find yourself in a mood when you wanna be a bit controversial and you post something, you suddenly realise, 'Oh my God!' because you've opened yourself up to a bunch of criticism from strangers.",
+		"When I'm doing a movie, I eat the same thing every day. For lunch, it's tuna salad or chicken salad and cole slaw. That's it. For dinner it's either veal and rice, fish and rice or steak and rice. It gets boring; boy, does it get boring.",
+		"I am not the richest, smartest or most talented person in the world, but I succeed because I keep going and going and going.",
+		"If you don't have a mountain, build one and then climb it. And after you climb it, build another one; otherwise you start to flatline in your life.",
+		"I'm not handsome in the classical sense. The eyes droop, the mouth is crooked, the teeth aren't straight, the voice sounds like a Mafioso pallbearer, but somehow it all works.",
+		"At the end of the day, 'Rocky' is a love story, and he could never have reached the final bell without Adrian.",
+		"You know you've been around when they start to remake your own movies when you're still alive.",
+		"I've been involved in something which was chaotic and insane. All I can say now is that I am, and intend to stay, a single man.",
+		"I know I'm incredibly unpredictable, and that's the only thing I'm sure of.",
+		"I want to turn my attention to movies about love relationships. Exploring the female psyche - there ought to be some interesting discoveries there. Love stories. If you do it right, people want to hear romantic dialog.",
+		"When you're scared, when you're hanging on, when life is hurting you, then you're going to see what you're really made of.",
+		"If you think people are inherently good, you get rid of the police for 24 hours - see what happens.",
+		"If you express yourself too much, you're considered weak.",
+		"Success is usually the culmination of controlling failure.",
+		"I have two lovely sons and some good memories, but I've had a rather tumultuous personal life. It hasn't been dull; I've been the Hiroshima of love.",
+		"I think that gravity sets into everything, including careers, but pendulums do swing and mountains do become valleys after a while... if you keep on walking.",
+		"There's no one in the world close to Arnold Schwarzenegger. He is a phenomenon. He's brilliant. Just because his physique belies that, don't underestimate him.",
+		"If you're willing to take the humiliation of sticking your head above the crowd, maybe it's, you know, the pleasure will be worth the pain.",
+		"For every guy, there is an opportunity to be a lot better than he thought he could be. We can't all be the star of the team, but we can be a star in our life. That's where you set your goal."]
 
 # Slack stuff
 slack = new Slack token
